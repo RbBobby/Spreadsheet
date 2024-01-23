@@ -50,15 +50,15 @@ PrintSheet(sheet);//вывод таблицы
 
 **Пример вывода таблицы по данным выше:**
 
-(5, 4)
-=1/0    =1+2*3
-some    text    here
-                'and'   'here
+//(5, 4)
+//=1/0    =1+2*3
+//some    text    here
+//                'and'   'here
+//
+//        =1/0
 
-        =1/0
-
-#ARITHM!        7
-some    text    here
-                and'    here
-
-        #ARITHM!
+//#ARITHM!        7
+//some    text    here
+//                and'    here
+//
+//        #ARITHM!
