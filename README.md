@@ -49,4 +49,5 @@ PrintSheet(sheet);//вывод таблицы
 }
 
 **Пример вывода таблицы по данным выше:**
+
 ![image](https://github.com/RbBobby/spreadsheet/assets/125093981/90d4937a-3153-4ca0-a7f6-8159fd0ef32e)
